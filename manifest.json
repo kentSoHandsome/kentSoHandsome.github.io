@@ -1,6 +1,6 @@
 {
-    "name": "json_to_dart",
-    "short_name": "json_to_dart",
+    "name": "nb_tools",
+    "short_name": "nb_tools",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
